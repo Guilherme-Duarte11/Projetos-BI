@@ -7,6 +7,9 @@ Os projetos aqui apresentados foram criados em contextos **reais e corporativos*
 
 ---
 
+🔒 Por motivos de confidencialidade, todos os dados utilizados nos projetos deste portfólio foram anonimizados ou substituídos por dados simulados, mantendo a integridade das análises e visualizações.
+
+---
 ## 🚀 Projetos
 
 ### 🧾 [Aging de Clientes](./Aging)
