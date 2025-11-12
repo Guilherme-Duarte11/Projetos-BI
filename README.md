@@ -57,8 +57,8 @@ Painel criado para **analisar o volume e perfil dos atendimentos clínicos** rea
 ## 📫 Contato
 📍 **Guilherme Duarte**  
 💼 Analista de Dados | Estudante de Sistemas de Informação  
-📧 [guilhermeduarte@gmail.com](mailto:guilhermeduarte@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-duarte11/)  
+📧 [guilhermeduarte@gmail.com](mailto:guilhermeddsilva@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-duarte-da-silva/)  
 
 ---
 
