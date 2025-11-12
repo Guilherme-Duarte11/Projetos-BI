@@ -22,7 +22,7 @@ Painel desenvolvido para análise dos **valores a receber por cliente**, com cla
 
 ---
 
-### 🪖 [Projeto de Substituição de Soldados — Ministério da Defesa](./Substituicao-Soldados)
+### 🪖 [Projeto de Substituição de Militares — Ministério da Defesa](./Substituicao)
 Dashboard desenvolvido para **acompanhar e otimizar o processo de substituição de militares**, analisando indicadores de efetivo, tempo de serviço e movimentação de pessoal.  
 **Ferramentas utilizadas:** Power BI e Excel.  
 **Principais entregas:**  
