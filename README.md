@@ -36,13 +36,13 @@ Dashboard desenvolvido para **acompanhar e otimizar o processo de substituição
 ---
 
 ### 🏥 [Análise dos Atendimentos Clínicos — Posto Médico do Ministério da Defesa](./Clínica)
-Painel criado para **analisar o volume e perfil dos atendimentos clínicos** realizados no posto médico do ministério, permitindo identificar padrões e gargalos no atendimento.  
+Painel criado para **analisar o volume e perfil dos atendimentos clínicos** realizados no posto médico do ministério da Defesa, permitindo identificar padrões e gargalos no atendimento e a sazonalidade dos atendimentos.  
 **Ferramentas utilizadas:** Power BI e Excel.  
 **Principais insights:**  
-- Quantidade de atendimentos por especialidade médica  
-- Distribuição por faixa etária e gênero  
+- Quantidade de atendimentos por procedimento médico
+- Distribuição por cargo  
 - Evolução mensal dos atendimentos  
-- Tempo médio de espera e taxa de retorno de pacientes  
+- Média de atendimentos diários  
 
 ---
 
