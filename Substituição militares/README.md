@@ -1,6 +1,6 @@
-# 📊 Painel – Portaria Militar (2024/25)
+# 📊 Painel – Substituição de  Militares (2024/25)
 
-Este projeto apresenta um painel desenvolvido no **Power BI** com o objetivo de analisar os dados da Portaria Militar de 2024, oferecendo visualizações claras e filtros funcionais para melhor interpretação das informações.  
+Este projeto apresenta um painel desenvolvido no **Power BI** com o objetivo de analisar os dados da Portaria Militar de 2024 do Ministério da Defesa, oferecendo visualizações claras e filtros funcionais para melhor interpretação das informações.  
 O dashboard foi construído utilizando uma base principal em Excel e uma tabela derivada de um arquivo PDF, sendo necessário realizar modelagem, relacionamentos e tratamentos específicos para viabilizar as análises.
 
 ---
