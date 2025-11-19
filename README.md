@@ -1,65 +1,52 @@
-# 📊 Portfólio de Projetos de Business Intelligence
+# 📁 Portfólio de Projetos – Business Intelligence & Data Analysis
 
-Bem-vindo(a)! 👋  
-Este repositório reúne meus principais projetos de **Business Intelligence (BI)**, desenvolvidos com foco em análise de dados, construção de dashboards e geração de insights estratégicos.  
+Bem-vindo ao meu portfólio de projetos desenvolvidos em **Power BI**, **Excel** e técnicas de **Análise de Dados**.  
+Aqui você encontrará alguns dos dashboards e análises que produzi tanto em ambiente corporativo quanto para fins de estudo e desenvolvimento profissional.
 
-Os projetos aqui apresentados foram criados em contextos **reais e corporativos**, e os dados foram devidamente **anonimizados** para fins de estudo e demonstração.
-
----
-
-🔒 Por motivos de confidencialidade, todos os dados utilizados nos projetos deste portfólio foram anonimizados ou substituídos por dados simulados, mantendo a integridade das análises e visualizações.
-
----
-## 🚀 Projetos
-
-### 🧾 [Aging de Clientes](./Aging)
-Painel desenvolvido para análise dos **valores a receber por cliente**, com classificação das dívidas em faixas de vencimento, permitindo uma visão clara sobre a inadimplência e o fluxo financeiro.  
-**Ferramentas utilizadas:** Excel e Power BI.  
-**Principais métricas:**  
-- Dívidas vencidas há mais de 365 dias  
-- Dívidas vencidas entre 91 e 365 dias  
-- Dívidas vencidas entre 61 e 90 dias  
-- Dívidas vencidas entre 31 e 60 dias  
-- Dívidas vencidas entre 1 e 30 dias  
-- Valores a vencer  
+⚠️ Todos os dados apresentados foram **anonimizados** para preservar a confidencialidade das informações reais.
 
 ---
 
-### 🪖 [Projeto de Substituição de Militares — Ministério da Defesa](./Substituicao)
-Dashboard desenvolvido para **acompanhar e otimizar o processo de substituição de militares**, analisando indicadores de efetivo, tempo de serviço e movimentação de pessoal.  
-**Ferramentas utilizadas:** Power BI e Excel.  
-**Principais entregas:**  
-- Monitoramento de substituições por unidade militar  
-- Análise de distribuição etária e tempo de permanência  
-- Indicadores de eficiência e taxa de reposição  
+## 📊 Projetos
+
+### 🔹 1. [Aging de Clientes](./Aging)  
+Painel desenvolvido durante meu estágio na Dataprev para analisar o **envelhecimento de dívidas**, identificando valores vencidos, a vencer e a concentração de risco por cliente.  
+Focado em apoiar processos de cobrança e gestão financeira.
 
 ---
 
-### 🏥 [Análise dos Atendimentos Clínicos — Posto Médico do Ministério da Defesa](./Clínica)
-Painel criado para **analisar o volume e perfil dos atendimentos clínicos** realizados no posto médico do ministério da Defesa, permitindo identificar padrões e gargalos no atendimento e a sazonalidade dos atendimentos.  
-**Ferramentas utilizadas:** Power BI e Excel.  
-**Principais insights:**  
-- Quantidade de atendimentos por procedimento médico
-- Distribuição por cargo  
-- Evolução mensal dos atendimentos  
-- Média de atendimentos diários  
+### 🔹 2. [Análise de Atendimentos Clínicos – Ministério da Defesa](./Clínica)  
+Painel construído a partir de dados coletados via Forms, com o objetivo de analisar o **fluxo de atendimentos na clínica interna**.  
+Inclui métricas diárias, procedimentos mais realizados, sazonalidade e perfil dos pacientes.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
-- **Power BI** – Modelagem e visualização de dados  
-- **Excel** – Tratamento e consolidação de bases  
-- **Power Query** – Limpeza e integração de dados  
-- **GitHub** – Controle de versão e portfólio público  
+### 🔹 3. [Substituição de Militares – Ministério da Defesa](./Substituição militares)  
+Dashboard criado para auxiliar a **movimentação e distribuição de militares** no Ministério da Defesa, comparando o efetivo atual com limites definidos em portaria.  
+Inclui visão hierárquica, unidades, forças e distribuição por gênero.
 
 ---
 
-## 📫 Contato
-📍 **Guilherme Duarte**  
-💼 Analista de Dados | Estudante de Sistemas de Informação  
-📧 [guilhermeduarte@gmail.com](mailto:guilhermeddsilva@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/guilherme-duarte-da-silva/)  
+## 🛠️ Tecnologias Utilizadas
+- Power BI  
+- Excel  
+- Power Query  
+- DAX  
+- Microsoft Forms  
+- Modelagem de Dados  
 
 ---
 
-⭐ *Este portfólio está em constante atualização com novos projetos e aprimoramentos nas análises e dashboards desenvolvidos.*
+## 📌 Observação
+Todos os projetos foram preparados com foco em **boa prática analítica**, **clareza visual** e **aplicação prática em ambiente corporativo**.
+
+---
+
+## 📧 Contato
+
+**Guilherme Duarte**  
+📩 guilhermeddsilva@gmail.com<br> 
+💼 [Linkedin](https://www.linkedin.com/in/guilherme-duarte-da-silva/)
+
+
+---
