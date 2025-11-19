@@ -107,7 +107,7 @@ O arquivo `.pbix` estará disponível na pasta deste repositório caso você des
 ## 📧 Contato
 
 **Guilherme Duarte**  
-📩 guilhermeddsilva@gmail.com 
+📩 guilhermeddsilva@gmail.com<br> 
 💼 [Linkedin](https://www.linkedin.com/in/guilherme-duarte-da-silva/)
 
 ---
