@@ -21,7 +21,7 @@ Inclui métricas diárias, procedimentos mais realizados, sazonalidade e perfil 
 
 ---
 
-### 🔹 3. [Substituição de Militares – Ministério da Defesa](./Substituição militares)  
+### 🔹 3. [Substituição de Militares – Ministério da Defesa](./Substituição_militares)  
 Dashboard criado para auxiliar a **movimentação e distribuição de militares** no Ministério da Defesa, comparando o efetivo atual com limites definidos em portaria.  
 Inclui visão hierárquica, unidades, forças e distribuição por gênero.
 
