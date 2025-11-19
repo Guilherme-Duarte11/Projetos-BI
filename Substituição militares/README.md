@@ -5,6 +5,11 @@ O dashboard foi construído utilizando uma base principal em Excel e uma tabela 
 
 ---
 
+> **Aviso de Confidencialidade:**  
+> Todos os dados apresentados neste painel foram anonimizados. Nomes, valores, identificações e demais informações sensíveis foram alterados ou removidos para garantir total sigilo e segurança, sem comprometer o propósito analítico do projeto.
+
+---
+
 ## 📝 Objetivo do Projeto
 
 - Consolidar informações oficiais da portaria militar em um único painel interativo.
